@@ -22,6 +22,8 @@
 
 [fastText](https://arxiv.org/abs/1607.01759)
 
+[Convolutional Neural Networks for Sentence Classification](http://arxiv.org/pdf/1408.5882v2.pdf)
+
 ---
 ## Course Notebooks
 ### Keras API
